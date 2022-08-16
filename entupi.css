@@ -1,0 +1,40 @@
+header {
+	background: #5c368f;
+    font-size: 100% ;
+    text-align: center;
+
+}
+
+header img{
+	position: relative;
+	right: 43%;
+	width: 14%;
+	top: 2px;
+	height: 10%;
+
+
+}
+
+header h1{
+	font-size: 79px;
+	color: #B94AF0;
+	position: absolute;
+	width: 104%;
+	top: 8%;
+}
+
+div {
+	border: 5px solid #56976f;
+	padding: 20px;
+}
+
+div li{
+	display: inline;
+	font-size: 40px;
+	border: 3px dashed #300000;
+	border-radius: 10px;
+	margin-top: 100px;
+    margin-bottom: 96px;
+    margin-right: 118px;
+    margin-left: 121px;
+}
