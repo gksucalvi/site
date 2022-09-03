@@ -29,6 +29,12 @@ div {
 	padding: 20px;
 }
 
+
+nav a:hover {
+	color: #701A03;
+	text-decoration: underline;
+}
+
 div li{
 	display: inline;
 	font-size: 40px;
