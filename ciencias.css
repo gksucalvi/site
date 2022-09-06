@@ -23,12 +23,9 @@ header h1{
 	top: 8%;
 }
 
-nav div {
+.navegando {
 	border: 5px solid #56976f;
 	padding: 20px;
-}
-
-nav div li{
 	display: inline;
 	font-size: 40px;
 	border: 3px dashed #300000;
@@ -38,7 +35,6 @@ nav div li{
     
     margin-left: 121px;
 }
-
 
 nav a {
 	text-transform: uppercase;
