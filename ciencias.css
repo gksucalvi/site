@@ -23,23 +23,24 @@ header h1{
 	top: 8%;
 }
 
-.navegando {
+nav {
 	border: 5px solid #56976f;
+}
+
+.navegando {
 	padding: 20px;
 	display: inline;
 	font-size: 40px;
 	border: 3px dashed #300000;
 	border-radius: 10px;
 	margin-top: 100px;
-    margin-bottom: 96px;
-    
-    margin-left: 121px;
+	margin-bottom: 96px;
+	margin-left: 121px;
 }
 
 nav a {
 	text-transform: uppercase;
 	color: #000000;
-	
 	text-decoration: none;
 }
 
