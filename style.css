@@ -24,15 +24,13 @@ header h1{
 	top: 8%;
 }
 
+nav {
+	border: 5px solid #56976f;
+}
+
 div {
 	border: 5px solid #56976f;
 	padding: 20px;
-}
-
-
-nav a:hover {
-	color: #701A03;
-	text-decoration: underline;
 }
 
 .navegando{
@@ -45,6 +43,22 @@ nav a:hover {
     	margin-right: 118px;
     	margin-left: 121px;
 	text-decoration: none
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+nav a:hover {
+	color: #701A03;
+	text-decoration: underline;
+}
+
+.texto {
+	text-align: center;
 }
 
 .titulu{
