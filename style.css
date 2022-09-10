@@ -46,3 +46,11 @@ nav a:hover {
     	margin-left: 121px;
 	text-decoration: none
 }
+
+.titulu{
+	font-size: 35px;
+	margin: 5px;
+	padding: 5px;
+	font-weight: bolder;
+	color: #94FFDD;
+}
